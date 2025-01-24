@@ -99,7 +99,6 @@ function App() {
   };
 
   return (
-
     <div className="min-h-screen bg-gray-50">
       {/* Fixed Navbar */}
        <nav className={`fixed w-full z-50 transition-all duration-300 ${
